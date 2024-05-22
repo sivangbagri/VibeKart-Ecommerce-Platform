@@ -1,0 +1,50 @@
+client folder
+app.js routes
+src / utils / context.js 
+
+styling : 
+header.jsx (react-icons)
+banner.jsx
+footer.jsx 
+newsletter.jsx 
+products.jsx 
+product.jsx
+Category.jsx
+singleProduct.jsx
+
+Cart show unshow header.jsx
+cart.jsx
+cartItem.jsx
+
+Strapi 
+install ( npx create-strapi-app@latest . )
+npm run develop
+new collection :  category , product
+media upload 
+add products
+api token 
+b1ac55f5357cc6a2d2cfd2739367c0156604fc19b3c4846c4283733d479347e5053d560e5aea2f1d8532a1023304c29e9184e3040c353e82f17616381c0b3cd825497c8faae4c98cd57324defe5f382806e43002571927111975200e676890ae2ed97c60a0dcc8ea398a5c38614b5bca4322d89de9a536487441a1bec80ad5fc
+
+utils/api.js
+env
+home.jsx
+
+home /category.jsx
+products.jsx
+product.jsx
+Hooks/useFetch
+
+category.jsx
+
+singleProduct.jsx
+related products
+context.js (cart , useLocation)
+cartItems.jsx
+cart.jsx
+search.jsx
+stripe
+api/env 
+api / npm install stripe 
+api / controls 
+api.js
+cart.js
