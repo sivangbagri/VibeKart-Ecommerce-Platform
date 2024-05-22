@@ -1,4 +1,5 @@
-<img width="919" alt="image" src="https://github.com/sivangbagri/VibeKart-Ecommerce-Platform/assets/61118650/60fdd5c5-b8b3-4b1e-b925-ffc98e7abaf1">
+<img width="500" alt="image" src="https://github.com/sivangbagri/VibeKart-Ecommerce-Platform/assets/61118650/60fdd5c5-b8b3-4b1e-b925-ffc98e7abaf1">
+<img width="500" alt="image" src="https://github.com/sivangbagri/VibeKart-Ecommerce-Platform/assets/61118650/ff8d02cb-af38-4b8f-9f06-99e4351b62a0">
 
 ## Documentation 
 - VibeKart is e-commerce platform developed using **React.js** for a dynamic and responsive user interface.
